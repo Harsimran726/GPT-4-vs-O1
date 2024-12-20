@@ -3,7 +3,6 @@ from openai import OpenAI
 import time
 
 
-openai_api_key = "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"
 
 st.session_state.client = OpenAI(api_key=openai_api_key)
 st.session_state.o1 =   'o1-mini'
