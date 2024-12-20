@@ -24,7 +24,7 @@ In my research, O1 outperforms GPT-4 in terms of speed and reasoning, while GPT-
 
 If you're interested in reading the full article or diving deeper into my research, check out my article on **LinkedIn**!  
 
-[Read My Research Article on LinkedIn!](YOUR_LINKEDIN_ARTICLE_URL)
+[Read My Research Article on LinkedIn!](https://www.linkedin.com/pulse/how-reasoning-handled-gpt-4-01-comparison-between-gpt-singh-kknpc)
 
 ## Conclusion:
 
@@ -32,7 +32,7 @@ This research highlights the strengths and weaknesses of both models. **GPT-4** 
 
 ## Contact Me:
 
-Feel free to connect with me on [LinkedIn](YOUR_LINKEDIN_PROFILE_URL) for more updates or any questions about my research.
+Feel free to connect with me on [LinkedIn]([YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/harsimransinghtech/)) for more updates or any questions about my research.
 
 ---
 
