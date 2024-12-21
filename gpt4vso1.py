@@ -6,7 +6,7 @@ import time
 
 st.session_state.client = OpenAI(api_key=openai_api_key)
 st.session_state.o1 =   'o1-mini'
-st.session_state.gpt = 'gpt-4o-mini'
+st.session_state.gpt = 'gpt-4'
 
 
 st.session_state.user_prompt = st.text_input("Write your prompt")
